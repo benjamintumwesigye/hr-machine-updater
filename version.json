@@ -3,5 +3,5 @@
   "versionName": "1.4.0",
   "apkUrl": "https://yourdomain.com/app/hr_machine_app_v1.4.0.apk",
   "releaseNotes": "• Enhanced biometric security\n• Bug fixes\n• Performance improvements",
-  "forceUpdate": false
+  "forceUpdate": true
 }
