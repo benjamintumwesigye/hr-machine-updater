@@ -1,7 +1,7 @@
 {
   "versionCode": 2,
-  "versionName": "1.4.0",
-  "apkUrl": "https://storage.arxcess360.com/file-server-api/web-access/download/open/613b28fd-e470-4df4-bc37-8b9231588b64",
+  "versionName": "1.3",
+  "apkUrl": "https://storage.arxcess360.com/file-server-api/web-access/download/open/866e849f-913d-4e28-8060-5f84a70b442f",
   "releaseNotes": "• Enhanced biometric security\n• Bug fixes\n• Performance improvements",
   "forceUpdate": true
 }
